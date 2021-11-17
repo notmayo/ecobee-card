@@ -1,0 +1,9 @@
+{
+    "ecobee-card": {
+      "updated_at": "2021-11-17",
+      "version": "0.1.0",
+      "remote_location": "https://raw.githubusercontent.com/notmayo/homeassistant/master/ecobee-card/ecobee-card.js",
+      "visit_repo": "https://github.com/notmayo/homeassistant/tree/master/ecobee-card",
+      "changelog": "https://github.com/notmayo/homeassistant/tree/master/ecobee-card/releases/latest"
+    }
+}

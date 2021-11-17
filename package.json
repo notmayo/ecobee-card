@@ -1,0 +1,8 @@
+{
+  "name": "ecobee-card",
+  "version": "0.1.0",
+  "main": "ecobee-card.js",
+  "author": "jknoflook",
+  "description": "A card developed for Lovelace to mimic the look of the ecobee thermostat",
+  "license": ""
+}

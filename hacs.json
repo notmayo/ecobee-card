@@ -1,0 +1,5 @@
+{
+  "homeassistant": "0.100.0",
+  "render_readme": true
+  "filename": "ecobee-card.js"
+}
