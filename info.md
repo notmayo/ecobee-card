@@ -4,7 +4,7 @@ A card developed for Lovelace to mimic the look of the ecobee thermostat.
 
 Note: All credit to [jknoflook's](https://github.com/jknoflook/homeassistant/tree/master/Ecobee%20Card) Ecobee Card, this is just reformatted for use in HACS.
 
-![ecobee](https://github.com/notmayo/ecobee-card/ecobee.png)
+![ecobee](https://raw.githubusercontent.com/notmayo/ecobee-card/main/ecobee.png)
 
 **Options**
 
