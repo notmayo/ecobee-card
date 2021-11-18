@@ -18,7 +18,7 @@ class EcobeeCard extends HTMLElement {
         const link = document.createElement('link');
         link.type = 'text/css';
         link.rel = 'stylesheet';
-        link.href = '/local/custom_ui/ecobee-card.css';
+        link.href = '/hacsfiles/ecobee-card/ecobee-card.css';
         card.appendChild(link);
 
         card.addEventListener('click', event => {
